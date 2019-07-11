@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\lisa0\source\repos\game\game\main.c(4): warning C4013: 'init' undefined; assuming extern returning int
+c:\users\lisa0\source\repos\game\game\main.c(6): warning C4013: 'titleDraw' undefined; assuming extern returning int
+c:\users\lisa0\source\repos\game\game\main.c(7): warning C4013: 'menuDraw' undefined; assuming extern returning int
+c:\users\lisa0\source\repos\game\game\main.c(9): warning C4013: 'maplistDraw' undefined; assuming extern returning int
+c:\users\lisa0\source\repos\game\game\main.c(11): warning C4013: 'gotoxy' undefined; assuming extern returning int
+c:\users\lisa0\source\repos\game\game\main.c(21): warning C4013: 'infoDraw' undefined; assuming extern returning int
+  game.vcxproj -> C:\Users\lisa0\source\repos\game\Debug\game.exe
